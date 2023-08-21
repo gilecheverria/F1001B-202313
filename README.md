@@ -10,7 +10,7 @@ My first repository to learn GIT
 
 - **ls**: list the contents of a directory
 - **cd**: change to another directory
-- **pdw**: print the working directory. Show where I am at the moment
+- **pwd**: print the working directory. Show where I am at the moment
 - **mkdir**: create a new directory
 
 ## Git commands
@@ -36,5 +36,3 @@ git commit -m "message"
 ```bash
 git push origin main
 ```
-
-
