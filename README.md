@@ -13,6 +13,9 @@ My first repository to learn GIT
 - **pwd**: print the working directory. Show where I am at the moment
 - **mkdir**: create a new directory
 
+
+![Unix command guide](Unix_command_cheatsheet.pdf.jpg)
+
 ## Git commands
 
 - **git clone**: download a repository to the local machine
